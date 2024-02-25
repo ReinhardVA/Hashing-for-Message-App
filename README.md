@@ -1,1 +1,1 @@
-This is a practice for Algorith Analysis class.
+This is a practice for Algorithm Analysis class.
